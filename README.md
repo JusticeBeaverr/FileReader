@@ -11,4 +11,9 @@ To build the application, execute the following steps:
 3. Run the `go build` command in the Command Prompt:
    
 ### Run
-1.
+1. Once the build process is completed, you can run the application by providing the path to the JSON file containing the IAM Role policy as an argument.
+2. Use the following command format to run the application:
+     ```bash
+     ./file_reader
+     ```
+
